@@ -52,13 +52,13 @@ Store Age: Stores aged 10–15 years perform better than older or newer ones.
 The Global Electronics Retailer Data Analysis project delivers a powerful, interactive dashboard that provides managers with valuable insights into the company’s performance. By leveraging DAX and calculated columns in Power BI, the project offers dynamic and accurate visualizations to analyze sales trends, customer demographics, product performance, and store operations. These insights empower managers to make data-driven decisions, identify areas for growth, and optimize overall performance.
 
 ##  📈 Report Overview :
-[<img src="https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Sales.png" alt="report1" width="1100" height="550">](https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Sales.png) &nbsp;
+[<img src="https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Sales.png" alt="report1" width="1300" height="550">](https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Sales.png) &nbsp;
 
-[<img src="https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Customer.png" alt="report2" width="1100" height="550">](https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Customer.png) &nbsp;
+[<img src="https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Customer.png" alt="report2" width="1300" height="550">](https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Customer.png) &nbsp;
 
-[<img src="https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Store.png" alt="report3" width="1100" height="550">](https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Store.png) &nbsp;
+[<img src="https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Store.png" alt="report3" width="1300" height="550">](https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Store.png) &nbsp;
 
-[<img src="https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Product.png" alt="report3" width="1100" height="550">](https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Product.png) &nbsp;
+[<img src="https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Product.png" alt="report3" width="1300" height="550">](https://github.com/tanu4419/Global_Electronics_Retailer/blob/main/Images/Product.png) &nbsp;
 
 
 
