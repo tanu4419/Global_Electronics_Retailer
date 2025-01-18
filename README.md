@@ -29,24 +29,24 @@ The main objective is to create an exploratory dashboard that helps them:
 ## 🔎 Principle Insights
 #### Sales Analysis
 
-Total Sales by Date: April consistently shows the lowest revenue each year, with a decline after 2020.
-Revenue by Product: Computers lead in revenue, followed by home appliances and cameras.
-Revenue by Currency: USD dominates sales, with the USA as the top-earning country.
-Revenue vs. Orders: DAX measures highlight the correlation between revenue and total orders.
+- Total Sales by Date: April consistently shows the lowest revenue each year, with a decline after 2020.
+- Revenue by Product: Computers lead in revenue, followed by home appliances and cameras.
+- Revenue by Currency: USD dominates sales, with the USA as the top-earning country.
+- Revenue vs. Orders: DAX measures highlight the correlation between revenue and total orders.
 
 #### Demographics
-Gender Distribution: Visualized via a pie chart.
-Customer Location: A tree map with drill-down capabilities shows distribution by state, city, and zip code.
-Top Customer: A table identifies top customers by revenue, including product and location details.
+- Gender Distribution: Visualized via a pie chart.
+- Customer Location: A tree map with drill-down capabilities shows distribution by state, city, and zip code.
+- Top Customer: A table identifies top customers by revenue, including product and location details.
 
 #### Product Performance
-Product Profit Share: Computers account for 35% of revenue ($11.28M).
-Brand vs. Color: Black, white, and silver are top-selling colors, with Contoso as the leading brand.
-Profit Margin: A scatter plot shows higher-margin products derived using calculated columns.
+- Product Profit Share: Computers account for 35% of revenue ($11.28M).
+- Brand vs. Color: Black, white, and silver are top-selling colors, with Contoso as the leading brand.
+- Profit Margin: A scatter plot shows higher-margin products derived using calculated columns.
 
 #### Store Performance
-Sales by Store: Top 50 stores highlighted, showing better performance for larger stores.
-Store Age: Stores aged 10–15 years perform better than older or newer ones.
+- Sales by Store: Top 50 stores highlighted, showing better performance for larger stores.
+- Store Age: Stores aged 10–15 years perform better than older or newer ones.
 
 ## 🧠 Conclusion
 The Global Electronics Retailer Data Analysis project delivers a powerful, interactive dashboard that provides managers with valuable insights into the company’s performance. By leveraging DAX and calculated columns in Power BI, the project offers dynamic and accurate visualizations to analyze sales trends, customer demographics, product performance, and store operations. These insights empower managers to make data-driven decisions, identify areas for growth, and optimize overall performance.
