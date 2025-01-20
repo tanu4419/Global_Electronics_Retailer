@@ -18,7 +18,7 @@ The main objective is to create an exploratory dashboard that helps them:
 - Analyse Product performance and Product Categories
 - Diagnose store performance of the company
 
-## 🛠Tools & Technologies
+## Tools & Technologies
 - Power BI: Used for creating visualizations and building an interactive dashboard.
 - DAX (Data Analysis Expressions): Used to create measures and calculated columns for advanced data analysis.
 
