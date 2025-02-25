@@ -36,16 +36,15 @@ The main objective is to create an exploratory dashboard that helps them:
 
 #### Demographics
 - Gender Distribution: Visualized via a pie chart.
-- Customer Location: A tree map with drill-down capabilities shows distribution by state, city, and zip code.
+- Customer Location: A tree map shows distribution by state, city.
 - Top Customer: A table identifies top customers by revenue, including product and location details.
 
 #### Product Performance
 - Product Profit Share: Computers account for 35% of revenue ($11.28M).
-- Brand vs. Color: Black, white, and silver are top-selling colors, with Contoso as the leading brand.
 - Profit Margin: A scatter plot shows higher-margin products derived using calculated columns.
 
 #### Store Performance
-- Sales by Store: Top 50 stores highlighted, showing better performance for larger stores.
+- Sales by Store: Top 10 stores highlighted, showing better performance for larger stores.
 - Store Age: Stores aged 10–15 years perform better than older or newer ones.
 
 ## Conclusion
